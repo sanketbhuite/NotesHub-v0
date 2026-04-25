@@ -111,10 +111,10 @@ Here’s how a student would typically use NotesHub:
 ---
 
 ## Contributors
-- *Sanket Bhuite*
-- *Shreyash pise*
-- *Vikrant Jadhav*
-- *Pratik Salunkhe*
+- [Sanket Bhuite](https://github.com/sanketbhuite/)
+- [Shreyash pise](https://github.com/YashPise07)
+- [Vikrant Jadhav](https://github.com/vikrantjadhav07)
+- [Pratik Salunkhe](https://github.com/pratiksalunkhe523)
 ---
 
 ## License
